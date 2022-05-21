@@ -2,7 +2,7 @@
 layout: post
 title:  "This is my first post!"
 date:   2022-05-12 16:12:18 +0900
-categories: test
+categories: post
 ---
 
 I wish post own my blog for my stories!
